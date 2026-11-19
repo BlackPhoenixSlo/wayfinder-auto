@@ -88,6 +88,12 @@ standing fog all look identical to "done" and are reported as themselves.
 You get one report: what was decided, the assumptions to veto, what needs you, and which stop
 condition fired.
 
+## Sibling
+
+[spec-auto](https://github.com/BlackPhoenixSlo/spec-auto) picks up where this leaves off: it turns a
+decided plan into specs, tracer-bullet tickets and, under `--execute`, code — reusing this skill's
+adversary protocol.
+
 ## Credits
 
 The map, the fog of war, the frontier, decision tickets and the ticket types are Matt Pocock's
